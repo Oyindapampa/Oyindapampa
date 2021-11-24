@@ -1,0 +1,216 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.11.22)  24 NOV 2021 08:49
+entering extended mode
+**./powerpoint.tex
+(powerpoint.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (C:\programs\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\programs\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\programs\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\programs\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\programs\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\programs\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\programs\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\programs\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\programs\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box50
+) (powerpoint.aux)
+\openout1 = `powerpoint.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+(C:\programs\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen142
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks18
+) (C:\programs\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\programs\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+[1
+
+{C:/Users/user21/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+<john-w-backus.jpg, id=14, 190.7125pt x 290.08376pt>
+File: john-w-backus.jpg Graphic file (type jpg)
+<use john-w-backus.jpg>
+Package pdftex.def Info: john-w-backus.jpg  used on input line 22.
+(pdftex.def)             Requested size: 241.49895pt x 367.3488pt.
+
+[4] [5 <./john-w-backus.jpg>] [6]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 50.
+ [7]
+<grace hopper.jpg, id=28, 201.75375pt x 251.94125pt>
+File: grace hopper.jpg Graphic file (type jpg)
+<use grace hopper.jpg>
+Package pdftex.def Info: grace hopper.jpg  used on input line 59.
+(pdftex.def)             Requested size: 201.75325pt x 251.94063pt.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \caption
+             {Grace Hopper}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[8 <./grace hopper.jpg>] [9] [10]
+<guido.jpg, id=38, 245.91875pt x 206.7725pt>
+File: guido.jpg Graphic file (type jpg)
+<use guido.jpg>
+Package pdftex.def Info: guido.jpg  used on input line 82.
+(pdftex.def)             Requested size: 245.91814pt x 206.77199pt.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 \caption
+             {Guido Van Rossum}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[11 <./guido.jpg>] [12] [13]
+<Brendan Eich.jpg, id=50, 225.84375pt x 225.84375pt>
+File: Brendan Eich.jpg Graphic file (type jpg)
+<use Brendan Eich.jpg>
+Package pdftex.def Info: Brendan Eich.jpg  used on input line 122.
+(pdftex.def)             Requested size: 225.84319pt x 225.84319pt.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 \caption
+              {Brendan Eich}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[14 <./Brendan Eich.jpg>] [15] [16]
+<basic guys.jpg, id=60, 224.84pt x 225.84375pt>
+File: basic guys.jpg Graphic file (type jpg)
+<use basic guys.jpg>
+Package pdftex.def Info: basic guys.jpg  used on input line 154.
+(pdftex.def)             Requested size: 224.83945pt x 225.84319pt.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 \caption
+              {Thomas Eugene Kurtz  and John George Kemeny}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[17 <./basic guys.jpg>] [18]
+<thanks.jpg, id=67, 376.40625pt x 134.5025pt>
+File: thanks.jpg Graphic file (type jpg)
+<use thanks.jpg>
+Package pdftex.def Info: thanks.jpg  used on input line 180.
+(pdftex.def)             Requested size: 376.40532pt x 134.50215pt.
+
+Overfull \hbox (31.40532pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+[19 <./thanks.jpg>] (powerpoint.aux) ) 
+Here is how much of TeX's memory you used:
+ 1251 strings out of 478927
+ 18848 string characters out of 2868074
+ 313020 words of memory out of 3000000
+ 19147 multiletter control sequences out of 15000+600000
+ 405293 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,66p,407b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\user21\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/programs/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/programs/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/programs/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on powerpoint.pdf (19 pages, 123522 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
